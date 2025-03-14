@@ -1,16 +1,60 @@
-## Hi there 👋
+👋🏼 **Hello there, curious visitor !**  
+I'm **Nassilya**, a passionate explorer at the crossroads of **Data Analytics 🚀, AI 🤖, and Tech Innovation ✨** 
+Fueled by curiosity and coffee ☕, I'm constantly crafting data-driven stories and solutions
+Ready to discover what’s next ? Let's dive in! ⬇️  
 
-<!--
-**Nassilya/Nassilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠️ Skills & Technologies
+---
+### 📊 Data Analytics & Business Intelligence
+📈 **Tableau**, **Power BI**, **Google Analytics**, **Advanced Excel**
 
-Here are some ideas to get you started:
+### ☁️ Big Data & Cloud
+☁️ **Hadoop**, **Spark**, **Dataiku**, **Google Cloud Platform (GCP)**, **Oracle**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏽‍💻 Programming Languages
+🐍 **Python**, 🚀 **Scala**, ☕ **Java**, 📊 **R**, 🛠️ **C**
+
+### 🗃️ Databases
+🗄️ **SQL**, **NoSQL**, 🐝 **Hive**, 🐘 **PostgreSQL**
+
+### 🤖 Artificial Intelligence
+⚙️ **Machine Learning**, **NLP Techniques**, **Data Analytics**, **Data Engineering**
+
+### 🚩 Algorithmic Problem Solving
+🧩 **Graph Algorithms**: **A***, **Dijkstra**, **Graph Theory**  
+🎲 **Minimax Algorithm** for Game Strategies
+
+### 💻 Web Development
+🌐 **HTML**, 🎨 **CSS**, 🚦 **JavaScript**, 🐘 **PHP**, ⚛️ **React**
+
+### 🛡️ Operating Systems
+🪟 **Windows**, 🐧 **Linux**
+
+### 🔧 Version Control
+🌳 **Git**, 📂 **SVN**
+
+### 📌 Project Management & Tools
+📝 **LaTeX**, 📐 **UML**, 📋 **Software Engineering Requirements**
+
+---
+
+## ⚡ Key Strengths
+
+✨ **Adaptability**: Quick learner, embracing new challenges and technologies  
+🗣️ **Effective Communication**: Committed to clear, concise communication within teams  
+🤝 **Collaboration & Teamwork**: Believing in collective success—_"we rise by lifting others"
+
+---
+
+## 🎯 Interests
+
+🌍 **Travel Enthusiast**: Explored Italy (Milan), Spain (Madrid, Barcelona), Portugal (Lisbon), Switzerland (Geneva), Austria (Vienna), UK (Birmingham), Algeria (Algiers), Turkey (Istanbul), Tunisia (Tunis), Qatar (Doha), UAE (Abu Dhabi)—developing adaptability and cultural openness
+
+🎾 **Tennis Player**: Regularly practicing tennis, strengthening perseverance, discipline, and capacity for self-improvement
+
+---
+
+## 🤝🏼 Let's Connect!
+
+Explore my repositories-I'm always open to exciting new collaborations !  
+Feel free to reach out; together, let's build something amazing 🚀✨
