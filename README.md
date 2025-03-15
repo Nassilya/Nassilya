@@ -1,4 +1,4 @@
-👋🏼 **Hello there, curious visitor !**  
+👋🏼 **Hello there !**  
 I'm **Nassilya**, a passionate explorer at the crossroads of **Data Analytics 🚀, AI 🤖, and Tech Innovation ✨** 
 Fueled by curiosity and coffee ☕, I'm constantly crafting data-driven stories and solutions
 Ready to discover what’s next ? Let's dive in! ⬇️  
