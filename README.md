@@ -27,9 +27,6 @@ Ready to discover what’s next ? Let's dive in! ⬇️
 ### 💻 Web Development
 🌐 **HTML**, 🎨 **CSS**, 🚦 **JavaScript**, 🐘 **PHP**, ⚛️ **React**
 
-### 🛡️ Operating Systems
-🪟 **Windows**, 🐧 **Linux**
-
 ### 🔧 Version Control
 🌳 **Git**, 📂 **SVN**
 
@@ -40,15 +37,15 @@ Ready to discover what’s next ? Let's dive in! ⬇️
 
 ## ⚡ Key Strengths
 
-✨ **Adaptability**: Quick learner, embracing new challenges and technologies  
-🗣️ **Effective Communication**: Committed to clear, concise communication within teams  
-🤝 **Collaboration & Teamwork**: Believing in collective success "we rise by lifting others"
+**Adaptability**: Quick learner, embracing new challenges and technologies  
+**Effective Communication**: Committed to clear, concise communication within teams  
+**Collaboration & Teamwork**: Believing in collective success "we rise by lifting others"
 
 ---
 
 ## 🎯 Interests
 
-🌍 **Travel Enthusiast**: Explored Italy (Milan), Spain (Madrid, Barcelona), Portugal (Lisbon), Switzerland (Geneva), Austria (Vienna), UK (Birmingham), Algeria (Algiers), Turkey (Istanbul), Tunisia (Tunis), Qatar (Doha), UAE (Abu Dhabi)—developing adaptability and cultural openness
+🌍 **Travel Enthusiast**: Explored Canada (Montreal), USA (New York), Italy (Milan), Spain (Madrid, Barcelona, Alicante, Benidorm), Portugal (Lisbon), Germany (Munich), Switzerland (Geneva), Austria (Vienna), UK (London, Birmingham), Algeria (Algiers), Turkey (Istanbul, Antalya), Qatar (Doha), UAE (Dubai, Abu Dhabi) developing adaptability and cultural openness
 
 🎾 **Tennis Player**: Regularly practicing tennis, strengthening perseverance, discipline, and capacity for self-improvement
 
@@ -56,5 +53,5 @@ Ready to discover what’s next ? Let's dive in! ⬇️
 
 ## 🤝🏼 Let's Connect!
 
-Explore my repositories-I'm always open to exciting new collaborations !  
-Feel free to reach out; together, let's build something amazing 🚀✨
+Explore my repositories, I'm always open to exciting new collaborations !  
+Feel free to reach out, together let's build something amazing ✨
