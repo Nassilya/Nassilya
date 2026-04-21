@@ -1,7 +1,7 @@
 👋🏼 **Hello there !**  
 I'm **Nassilya**, a passionate explorer at the crossroads of **Data Analytics 🚀, AI 🤖, and Tech Innovation ✨** 
 Fueled by curiosity and coffee ☕, I'm constantly crafting data-driven stories and solutions
-Ready to discover what’s next ? Let's dive in! ⬇️  
+Ready to discover what’s next ? Let's dive in ! 
 
 # 🛠️ Skills & Technologies
 ---
@@ -43,9 +43,9 @@ Ready to discover what’s next ? Let's dive in! ⬇️
 
 ---
 
-## 🎯 Interests
+## 🌍 Interests 
 
-🌍 **Travel Enthusiast**: Explored Canada (Montreal), USA (New York), Italy (Milan), Spain (Madrid, Barcelona, Alicante, Benidorm), Portugal (Lisbon), Germany (Munich), Switzerland (Geneva), Austria (Vienna), UK (London, Birmingham), Algeria (Algiers), Turkey (Istanbul, Antalya), Qatar (Doha), UAE (Dubai, Abu Dhabi) developing adaptability and cultural openness
+✈️ **Travel Enthusiast**: Explored Canada (Montreal), USA (New York), Italy (Milan), Spain (Madrid, Barcelona, Alicante, Benidorm), Portugal (Lisbon), Germany (Munich), Switzerland (Geneva), Austria (Vienna), UK (London, Birmingham), Algeria (Algiers), Turkey (Istanbul, Antalya), Qatar (Doha), UAE (Dubai, Abu Dhabi) developing adaptability and cultural openness
 
 🎾 **Tennis Player**: Regularly practicing tennis, strengthening perseverance, discipline, and capacity for self-improvement
 
